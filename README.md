@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, I'm JR1ch 👋</h1>
 
 
 <p align="center">
-<b>Software Developer</b> • Python | JavaScript | (your strengths)
+<b>Student Developer</b> • Python (Pygame) | Algorithms | Game Tech
 <br/>
-Building <i>useful</i> things with clean code, tests, and docs.
+I build small, fast, and well-documented projects. Currently polishing my AQA NEA survival game.
 </p>
 
 
@@ -12,36 +12,18 @@ Building <i>useful</i> things with clean code, tests, and docs.
 
 
 ### 🚀 What I’m working on
-- 🎮 AQA NEA top‑down survival game in Python (Pygame)
-- 🧠 Data structures & algorithms practice
-- 🌐 Small web tools with FastAPI + React
+- 🎮 AQA NEA top‑down survival game (Python, Pygame)
+- 🧭 Reverse A* pathfinding & chunk-based rendering experiments
+- 🧪 Test automation (pytest + GitHub Actions)
 
 
 ### 🧰 Toolbox
-Python, Pygame, FastAPI, JavaScript/TypeScript, React, Node, Postgres, GitHub Actions, Docker
+Python, Pygame, pytest, Ruff, GitHub Actions, (FastAPI/React soon)
 
 
-### 📌 Featured projects
-[![Project 1](https://img.shields.io/badge/Repo-Game_Engine-blue)](https://github.com/YOU/REPO1)
-Short one‑liner about impact and tech.
-
-
-[![Project 2](https://img.shields.io/badge/Repo-Pathfinding_Visualizer-blue)](https://github.com/YOU/REPO2)
-Short one‑liner about impact and tech.
+### 📌 Featured project
+[![NEA Survival Game](https://img.shields.io/badge/Repo-nea_survival_game-blue)](https://github.com/JR1ch/nea-survival-game)
 
 
 ### 📫 Reach me
-- Portfolio: https://YOURDOMAIN (or GitHub Pages)
-- Email: you@example.com
-- LinkedIn: https://linkedin.com/in/YOURNAME
-
-
----
-
-
-<details>
-<summary>📊 Quick stats</summary>
-<!-- Keep it minimal; recruiters skim -->
-- Top languages: Python, JS/TS
-- Highlights: game AI, pathfinding, chunked rendering, CI/CD
-</details>
+- GitHub: https://github.com/JR1ch
