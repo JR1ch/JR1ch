@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## Connect with me
+## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joshua-richardson-390944314/)
 
 ---
@@ -32,6 +32,3 @@
 
 ## 📌 Featured project
 [![NEA Survival Game](https://img.shields.io/badge/nea_survival_game-blue)](https://github.com/JR1ch/nea-survival-game)
-
-### 📫 Reach me
-- GitHub: https://github.com/JR1ch
