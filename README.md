@@ -16,7 +16,7 @@
 ### Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,js,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,js,java,nodejs,react" />
   </a>
 </p>
 
@@ -27,7 +27,8 @@
 
 ## 🚀 What I’m working on
 - 🎮 AQA NEA top‑down survival game (Python, Pygame)
-- Front end web development and an internal UI library (angular, bootstrap, css, html, typescript)
+- Internal UI library (angular, bootstrap, css, html, typescript)
+- Front end web and app development
 - Back end development of scripts and APIs (python, C#)
 
 ## 📌 Featured project
