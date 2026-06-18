@@ -1,22 +1,37 @@
 <h1 align="center">Hi, I'm JR1ch 👋</h1>
 
 <p align="center">
-<b>Student Developer</b> • Python (Pygame) | Algorithms | Game Tech
+<b>Student Developer</b> | Open Source Contributor
+  Incoming Computer Science Student
 <br/>
 </p>
 
 ## Skills
-### Main
+### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,azure,cs,css,git,html,py,ts" />
+    <img src="https://skillicons.dev/icons?i=py,cs,sql" />
+  </a>
+</p>
+
+### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,angular,react,html,css" />
+  </a>
+</p>
+
+### Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,azure" />
   </a>
 </p>
 
 ### Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,js,java,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,js,java,nodejs,react,aws,azure" />
   </a>
 </p>
 
@@ -24,6 +39,25 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joshua-richardson-390944314/)
 
 ---
+
+## Experience
+### Principle One
+Prototype application development for the British Transport Police
+
+### TCI
+Software Engineering Intern
+- Python scripting and automation
+- C# API development
+- Angular applications
+- Internal UI component library
+  
+---
+
+## Open Source
+Currently contributing to:
+- Issue investigation
+- Bug reproduction
+- Pull Requests
 
 ## 🚀 What I’m working on
 - 🎮 AQA NEA top‑down survival game (Python, Pygame)
