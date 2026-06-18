@@ -2,11 +2,20 @@
 
 <p align="center">
 <b>Student Developer</b> | Open Source Contributor<br/>
-  Incoming Computer Science Student
-</p>
+  Incoming Computer Science Student with industry experience in software development and system design<br/>
+  
+  Previously worked with:
+  - Principle One
+  - TCI
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joshua-richardson-390944314/)
+  Interested in:
+  - Backend Engineering
+  - Open Source
+  - Developer Tooling
+  - AI Applications
+  
+  Currently contributing to open source and building personal projects.
+</p>
 
 ---
 
@@ -54,9 +63,6 @@ Software Engineering Intern
 
 ## Open Source
 Currently contributing to:
-- Issue investigation
-- Bug reproduction
-- Pull Requests
 
 ## 🚀 What I’m working on
 - 🎮 AQA NEA top‑down survival game (Python, Pygame)
@@ -66,3 +72,8 @@ Currently contributing to:
 
 ## 📌 Featured project
 [![NEA Survival Game](https://img.shields.io/badge/nea_survival_game-blue)](https://github.com/JR1ch/nea-survival-game)
+
+---
+
+## 📫 Connect with me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joshua-richardson-390944314/)
