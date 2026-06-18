@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm JR1ch 👋</h1>
 
 <p align="center">
-<b>Student Developer</b> | Open Source Contributor
+<b>Student Developer</b> | Open Source Contributor<br/>
   Incoming Computer Science Student
-<br/>
 </p>
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joshua-richardson-390944314/)
+
+---
 
 ## Skills
 ### Backend
@@ -35,9 +39,6 @@
   </a>
 </p>
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/joshua-richardson-390944314/)
-
 ---
 
 ## Experience
@@ -50,8 +51,6 @@ Software Engineering Intern
 - C# API development
 - Angular applications
 - Internal UI component library
-  
----
 
 ## Open Source
 Currently contributing to:
