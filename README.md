@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>Student Developer</b> | Open Source Contributor<br/>
-  Incoming Computer Science Student with industry experience in software development and system design<br/>
+  Incoming Computer Science Student with industry experience in software development and system design
   
   Previously worked with:
   - Principle One
